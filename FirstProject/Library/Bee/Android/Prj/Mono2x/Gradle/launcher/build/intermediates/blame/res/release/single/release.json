@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/larissagomes/Desktop/PUC/TCC/CursoUnity/UnityMobile2D/FirstProject/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/larissagomes/Desktop/PUC/TCC/CursoUnity/UnityMobile2D/FirstProject/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/larissagomes/Desktop/PUC/TCC/CursoUnity/UnityMobile2D/FirstProject/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "/Users/larissagomes/Desktop/PUC/TCC/CursoUnity/UnityMobile2D/FirstProject/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/larissagomes/Desktop/PUC/TCC/CursoUnity/UnityMobile2D/FirstProject/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/res/merged/release/mipmap-anydpi-v26_app_icon.xml.flat",
+        "source": "/Users/larissagomes/Desktop/PUC/TCC/CursoUnity/UnityMobile2D/FirstProject/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-anydpi-v26/app_icon.xml"
+    },
+    {
+        "merged": "/Users/larissagomes/Desktop/PUC/TCC/CursoUnity/UnityMobile2D/FirstProject/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/res/merged/release/mipmap-mdpi_app_icon.png.flat",
+        "source": "/Users/larissagomes/Desktop/PUC/TCC/CursoUnity/UnityMobile2D/FirstProject/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-mdpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/larissagomes/Desktop/PUC/TCC/CursoUnity/UnityMobile2D/FirstProject/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/res/merged/release/mipmap-anydpi-v26_app_icon_round.xml.flat",
+        "source": "/Users/larissagomes/Desktop/PUC/TCC/CursoUnity/UnityMobile2D/FirstProject/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-anydpi-v26/app_icon_round.xml"
+    }
+]
